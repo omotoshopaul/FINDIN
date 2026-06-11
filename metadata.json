@@ -1,0 +1,6 @@
+{
+  "name": "FINDIN UNILAG",
+  "description": "The premium campus companion platform for University of Lagos (UNILAG). Discover locations, browse local vendors, track shuttles, book rides, and engage with the intelligent AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
